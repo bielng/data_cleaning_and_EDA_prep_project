@@ -33,4 +33,4 @@ Welcome to the **Movie Ratings Mini Project**! This project dives into a dataset
 
 ---
 
-Enjoy exploring the world of movies through data! 🍿✨
+Enjoy exploring the world of movies through data! 
